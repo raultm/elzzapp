@@ -17,5 +17,5 @@ Create skeleton to start with Dagger
 
 Use of Cards?
 
-Check out this video [https://www.youtube.com/watch?v=97SWYiRtF0Y](https://www.youtube.com/watch?v=97SWYiRtF0Y)
+Check out this video [Google I/O 2014 - Material witness](https://www.youtube.com/watch?v=97SWYiRtF0Y)
 
