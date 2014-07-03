@@ -15,6 +15,8 @@ Create skeleton to start with Dagger
 
 [Dagger Tutorial - Part 3](http://antonioleiva.com/dagger-3/)
 
+[SO - Dagger Question](http://stackoverflow.com/questions/21003947/any-examples-of-using-dagger-or-another-di-ioc-container-in-aar)
+
 Use of Cards?
 
 Check out this video [Google I/O 2014 - Material witness](https://www.youtube.com/watch?v=97SWYiRtF0Y)
